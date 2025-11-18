@@ -1,2 +1,0 @@
-# SoHTahmini
-SoHTahminiRepo
